@@ -1,4 +1,4 @@
-# Análise de Filtragem de Dados de Partidas de League of Legends
+# Filtragem de Dados de Partidas de League of Legends
 
 ## Introdução
 
