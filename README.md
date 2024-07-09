@@ -34,7 +34,7 @@ date               champion  kills  deaths  assists  KDA
 2023-11-15 23:11:49.646  Nami         0     5       20      4.000000
 2023-11-15 22:39:35.486  Jhin         6     3       15      7.000000
 2023-11-15 19:19:32.776  Nami         3     5       18      4.200000
-
+```
 ### 2. Filtragem baseada em K-means Clustering
 
 Nesta abordagem, aplicamos o algoritmo K-means para identificar clusters de valores de KDA e filtramos os dados para manter apenas o cluster principal, seguido de uma filtragem adicional baseada no desvio padrão dentro do cluster principal.
@@ -58,7 +58,7 @@ date               champion  kills  deaths  assists  KDA
 2023-11-15 21:17:38.538  Jhin         7     5       10      3.400000
 2023-11-15 20:14:54.764  Jhin         9     7       18      3.857143
 2023-11-15 19:19:32.776  Nami         3     5       18      4.200000
-
+```
 ## Conclusão
 
 - **Desvio Padrão**: Eficaz, mas pode manter partidas com KDAs extremos, especialmente quando o desvio padrão é alto.
